@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+
+# Docker
+*.dockerfile
+
+# OS-specific
+.DS_Store
+Thumbs.db
